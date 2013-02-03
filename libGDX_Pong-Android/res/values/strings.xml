@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, androidTestGame!</string>
+    <string name="app_name">LibGDX_Test-Android</string>
+
+</resources>
